@@ -51,7 +51,7 @@ pip install pandas matplotlib pymongo dnspython
 
 The bootcamp is split into two main notebooks:
 
-### 1️⃣ [`NoSQL_setup_starter.ipynb`](https://github.com/Lanceowesalot/nosql-challenge-Module-12/blob/main/NoSQL_analysis_starter.ipynb)
+### 1️⃣ [`NoSQL_setup_starter.ipynb`](https://github.com/Lanceowesalot/nosql-challenge-Module-12/blob/main/NoSQL_setup_starter.ipynb)
 
 - Introduction to MongoDB
 - Setting up a database and collections
