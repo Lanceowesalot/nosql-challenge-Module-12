@@ -58,7 +58,7 @@ The bootcamp is split into two main notebooks:
 - Inserting, reading, updating, and deleting documents (CRUD operations)
 - Python integration with `pymongo`
 
-### 2️⃣ [`NoSQL_analysis_starter.ipynb`](notebooks/NoSQL_analysis_starter.ipynb)
+### 2️⃣ [`NoSQL_analysis_starter.ipynb`](https://github.com/Lanceowesalot/nosql-challenge-Module-12/blob/main/NoSQL_analysis_starter.ipynb)
 
 - Querying MongoDB with Python
 - Aggregating and filtering data
