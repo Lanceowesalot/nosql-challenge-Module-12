@@ -1,5 +1,5 @@
-
-# Data Analysis Bootcamp
+![HQ graphic](https://github.com/Lanceowesalot/nosql-challenge-Module-12/blob/main/Resources/Food%20Pic.jpg)
+# Eat, Safe, Love
 
 Welcome to the **Data Analysis Bootcamp**! This hands-on learning experience is designed to help you master essential data analysis skills using Python and real-world datasets. Through a series of interactive notebooks, you’ll go from raw data to valuable insights, building both technical expertise and analytical thinking.
 
