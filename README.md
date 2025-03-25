@@ -1,7 +1,7 @@
 ![HQ graphic](https://github.com/Lanceowesalot/nosql-challenge-Module-12/blob/main/Resources/Food%20Pic.jpg)
 # Eat, Safe, Love
 
-Welcome to the **Data Analysis Bootcamp**! This hands-on learning experience is designed to help you master essential data analysis skills using Python and real-world datasets. Through a series of interactive notebooks, you’ll go from raw data to valuable insights, building both technical expertise and analytical thinking.
+Welcome to module 12 Eat, Safe, Love! This hands-on learning experience is designed to help you master essential data analysis skills using Python and real-world datasets. Through a series of interactive notebooks, you’ll go from raw data to valuable insights, building both technical expertise and analytical thinking.
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to the **Data Analysis Bootcamp**! This hands-on learning experience is 
 
 ## Overview
 
-This bootcamp includes step-by-step tutorials covering:
+This includes step-by-step tutorials covering:
 
 - Data preparation & cleaning  
 - Exploratory data analysis (EDA)  
@@ -49,7 +49,7 @@ pip install pandas matplotlib pymongo dnspython
 
 ## 📁 Notebooks
 
-The bootcamp is split into two main notebooks:
+The project is split into two main notebooks:
 
 ### 1️⃣ [`NoSQL_setup_starter.ipynb`](https://github.com/Lanceowesalot/nosql-challenge-Module-12/blob/main/NoSQL_setup_starter.ipynb)
 
@@ -69,7 +69,7 @@ The bootcamp is split into two main notebooks:
 
 ## 📝 Summary
 
-By the end of this bootcamp, you will:
+By the end of this project, you will:
 
 ✅ Understand the basics of NoSQL databases and MongoDB  
 ✅ Know how to set up and interact with a database using Python  
@@ -81,8 +81,6 @@ By the end of this bootcamp, you will:
 ## 🎯 Conclusion
 
 This project equips you with the skills and confidence to approach data analysis challenges with a structured and insightful approach. From database setup to data storytelling, you’ve built a full-stack data workflow that mirrors real industry practices.
-
-Keep experimenting, keep asking questions, and keep analyzing!
 
 ---
 
